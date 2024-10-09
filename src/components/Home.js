@@ -17,7 +17,7 @@ const Home = () => {
                             <button className="bg-yellow-500 text-white font-bold  sm:px-2 sm:py-1 sm:px-2 md:py-2 md:px-4 rounded hover:bg-blue-500 mr-5 font-nav">Download Resume</button>
                         </a>
                         <a href="#project" className="bg-yellow-500 text-white font-bold sm:px-2 sm:py-1 sm:px-2 md:py-2 md:px-4 rounded hover:bg-blue-500 font-nav">
-                            Projects
+                            My Projects
                         </a>
                     </div>
                 </div>
