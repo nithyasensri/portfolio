@@ -12,7 +12,7 @@ const Home = () => {
                         <p className='text-shadow-red sm:text-4xl  md:text-5xl lg:text-6xl text-white font-header'>I am React Developer</p>
                     </h1>
                     <div className='flex flex-row mt-4'>
-                        <a href="/Resume.pdf" target="_blank" download>
+                        <a href="/Resume.pdf" target="_blank" download="Resume.pdf" >
                             <button className="bg-yellow-500 text-white font-bold  sm:px-2 sm:py-1 sm:px-2 md:py-2 md:px-4 rounded hover:bg-blue-500 mr-5 font-nav">Download Resume</button>
                         </a>
                         <a href="#project" className="bg-yellow-500 text-white font-bold sm:px-2 sm:py-1 sm:px-2 md:py-2 md:px-4 rounded hover:bg-blue-500 font-nav">
